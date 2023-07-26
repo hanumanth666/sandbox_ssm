@@ -1,0 +1,6 @@
+ami    = "ami-00c6c849418b7612c"
+instance_type   = "t3.medium"
+key_name = "Andres"
+subnet_id = "subnet-0b99906d46bb190a5"
+vpc_security_group_ids = "sg-0749fdff51bab9de0"
+region = "us-east-2"
